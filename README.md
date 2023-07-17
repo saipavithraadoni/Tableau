@@ -4,15 +4,6 @@ Visual Course Work 1
 ### Dataset
 NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure; Available as the 
 coursework attachment.
-
-### Analysis goals:
-# Tableau
-Visual Course Work 1
-
-### Dataset
-NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure; Available as the 
-coursework attachment.
-
 ### Analysis goals:
 <ol>
   <li>Find a pattern for one of the measurements
