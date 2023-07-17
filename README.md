@@ -2,8 +2,8 @@
 Visual Course Work 1
 
 ### Dataset
-NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure; Available as the 
-coursework attachment.
+NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure.
+It is attached here with the File name **CW1**
 ### Analysis goals:
 <ol>
   <li>Find a pattern for one of the measurements
@@ -19,3 +19,6 @@ coursework attachment.
     </ol>
   </li>
 </ol>
+
+The Submission File is **M00917128_VDA_CW1.twb**
+
