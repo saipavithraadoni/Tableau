@@ -6,9 +6,25 @@ NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure; Availab
 coursework attachment.
 
 ### Analysis goals:
-1. Find a pattern for one of the measurements
-  a. over time, and/or
-  b. across different countries/regions
-2. Find a relationship between two or three measurements
-  a. over time and/or
-  b. across different area
+# Tableau
+Visual Course Work 1
+
+### Dataset
+NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure; Available as the 
+coursework attachment.
+
+### Analysis goals:
+<ol>
+  <li>Find a pattern for one of the measurements
+    <ol>
+      <li>over time, and/or</li>
+      <li>across different countries/regions</li>
+    </ol>
+  </li>
+  <li>Find a relationship between two or three measurements
+    <ol>
+      <li>over time, and/or</li>
+      <li>across different area</li>
+    </ol>
+  </li>
+</ol>
