@@ -1,5 +1,5 @@
 # Tableau
-Visual Course Work 1
+Visual Course Work
 
 ### Dataset
 NCD_RisC dataset on BMI (Body Mass index), Diabetes, and Blood Pressure.
